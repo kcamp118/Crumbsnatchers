@@ -4,14 +4,14 @@
     box-sizing: border-box;
 }
 header{
-    background-color: black;
+    background-color:thistle;
 }
 li{
     list-style: none;
 }
 a{
-    color:white;
-    text-decoration: bubble;
+    color: white;
+    text-decoration: none;
 }
 
 .navbar{
@@ -49,12 +49,12 @@ a{
    margin: 5px auto;
    -webkit-transition: all 0.3s ease-in-out;
    transition: all 0.3s ease-in-out;
-   background-color: white;
+   background-color: black;
 }
 
 @media(max-width:768px){
   .hamburger{
-    display: black;  
+    display: white;  
   }
 .hamburger.active.bar:nth-child(2){
     opacity: 0;
