@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: darkslategrey;
+    font-size: 14px;
+}
+.containter{
+    width: 80%;
+    margin: 50px auto;
+}
