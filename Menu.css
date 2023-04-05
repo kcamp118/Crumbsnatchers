@@ -1,0 +1,61 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+nav{
+	height: 10vh;
+	background: black;
+}
+.restaurant-background{
+	background-image: url("./homeBackground.jpg");
+	background-repeat: repeat;
+	background-position: center;
+	background-size: cover;
+}
+.flex-container{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.u-link{
+	color: white;
+	text-decoration: none;
+}
+footer{
+	height: 90vh;
+}
+.u-text-center{
+	text-align: center;
+}
+.u-center{
+	margin-left: auto;
+	margin-right: auto;
+}
+table{
+	 border: 2px solid black;
+  border-collapse: collapse;
+  margin: 30px;
+}
+th, td {
+  padding: 25px;
+  text-align: center;
+  border-spacing: 5px;
+}
+.u-medium-box{
+	width: 60vw;
+	padding: 20px;
+}
+.u-border{
+	border: 1px solid black;
+}
+.u-medium-text{
+	font-size: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  .flex-container{
+
+  }
+}
