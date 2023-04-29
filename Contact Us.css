@@ -32,7 +32,7 @@
     background: hsl(216, 51%, 37%);
     padding:20px 40px;
     outline:none;
-    color:#ddd;
+    color:#466fb6;
     transition:0.5s;
 }
 .contact-form-text:focus{
