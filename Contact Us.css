@@ -1,3 +1,10 @@
+h1{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+
+
+
 *{
     margin: 0;
     padding: 0;
@@ -15,7 +22,7 @@
 .border{
     width:100px;
     height: 10px;
-    background: #34495e;
+    background: #cb91ca ;
     margin: 40px auto;
 }
 .contact-form{
