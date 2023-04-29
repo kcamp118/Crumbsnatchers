@@ -29,7 +29,7 @@
     box-sizing:border-box;
     margin:16px 0;
     border:0;
-    background: hsl(216, 51%, 37%);
+    background: hwb(0 0% 100%);
     padding:20px 40px;
     outline:none;
     color:#466fb6;
