@@ -36,7 +36,7 @@
     transition:0.5s;
 }
 .contact-form-text:focus{
-    box-shadow:0 0 10px 4px #34495e ;
+    box-shadow:0 0 10px 4px #cb91ca ;
 }
 textarea.contact-form-text{
     resize: none;
